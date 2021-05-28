@@ -1,6 +1,7 @@
 package co.yedam.numgame;
 
 import java.util.Scanner;
+//정인영!
 
 public class NumberGameApp {
  /*
